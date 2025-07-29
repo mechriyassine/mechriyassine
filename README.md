@@ -71,7 +71,7 @@
 ### 🎯 Fun Facts
 
 - 🧩 I love solving real-world problems using AI and scalable systems  
-- ⚡ I automate *everything* I can — from deployments to data pipelines  
+- ⚡ I automate *everything* I can from deployments to data pipelines  
 - 🌱 Currently exploring RAG pipelines, vector databases & agentic AI
 
 ---
