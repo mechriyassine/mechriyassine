@@ -12,8 +12,8 @@
 - **Vector Store**: ChromaDB (used in RAG pipelines)
 
 ### 🌐 Web Development
-- **Frontend**: React.js, Next.js, Bootstrap, Tailwind CSS  
-- **Backend**: FastAPI, Spring Boot, .NET, Node.js, Express.js, Streamlit  
+- **Frontend**: React.js, Next.js, Streamlit, Bootstrap, Tailwind CSS  
+- **Backend**: FastAPI, Spring Boot, .NET, Node.js, Express.js  
 - **Web Scraping**: BeautifulSoup  
 
 ### 💻 Programming Languages
