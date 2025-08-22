@@ -1,40 +1,40 @@
 <h1 align="center">Hi 👋, I'm Yassine Mechri</h1>
 <p align="center">
   💻 Passionate about Generative AI & Data science <br>
-  🚀 Turning ideas into production-ready systems
+  🚀 Building scalable AI-driven applications and data-centric solutions
 </p>
 
 ---
-
-### 🧠 NLP & LLM Tools
+## 🛠️ Skills
+#### 🧠 NLP & LLM Tools
 - **Encoders & NLP Models**: BERT, Sentence Transformers  
 - **Large Language Models**: GPT, LLaMA (`llama-cpp-python`)  
 - **Vector Store**: ChromaDB (used in RAG pipelines)
 
-### 🌐 Web Development
+#### 🌐 Web Development
 - **Frontend**: React.js, Next.js, Streamlit, Bootstrap, Tailwind CSS  
 - **Backend**: FastAPI, Spring Boot, .NET, Node.js, Express.js  
 - **Web Scraping**: BeautifulSoup  
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 - Python, JavaScript, TypeScript, Java
 
-### 🗃️ Databases
+#### 🗃️ Databases
 - ChromaDB, MongoDB, MySQL, PostgreSQL, Firebase, Supabase
 
-### ⚙️ DevOps & Infrastructure
+#### ⚙️ DevOps & Infrastructure
 - **Containers & Orchestration**: Docker, Kubernetes, Helm, Argo CD  
 - **CI/CD & Automation**: GitLab CI/CD, Jenkins, Ansible  
 - **Monitoring & Load Testing**: Gatling, APM Agent, Elasticsearch, Kibana  
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform (GCP)  
 
-### 🛠️ Tools & Platforms
+#### 🛠️ Tools & Platforms
 - GitHub, GitLab, Linux, VS Code, IntelliJ IDEA  
 - Figma, Adobe Illustrator
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yassinemechri/" target="_blank">
