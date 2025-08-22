@@ -37,13 +37,13 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yassinemechri/" target="_blank">
+  <a href="https://www.linkedin.com/in/yassine-mechri/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/yassinemechri" target="_blank">
+  <a href="https://www.facebook.com/yassine.mechri.13259/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yassinemechri" target="_blank">
+  <a href="https://www.instagram.com/yassine.mechri/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
