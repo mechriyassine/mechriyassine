@@ -71,7 +71,7 @@
 ### 🎯 Fun Facts
 
 - 🧩 I love solving real-world problems using AI and scalable systems  
-- ⚡ I automating things I don’t like doing, one day this will include laundry. 
+- ⚡ I automate things I don’t like doing, one day this will include laundry. 
 - 🌱 Currently exploring RAG pipelines, vector databases & agentic AI and hoping they don’t unionize against me.
 
 ---
