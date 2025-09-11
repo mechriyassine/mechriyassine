@@ -24,7 +24,7 @@
 
 #### ⚙️ DevOps & Infrastructure
 - **Containers & Orchestration**: Docker, Kubernetes, Helm, Argo CD  
-- **CI/CD & Automation**: GitLab CI/CD, Jenkins, Ansible  
+- **CI/CD & Automation**: GitLab CI/CD, Jenkins  
 - **Monitoring & Load Testing**: Gatling, APM Agent, Elasticsearch, Kibana  
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform (GCP)  
 
