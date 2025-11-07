@@ -9,7 +9,7 @@
 #### 🧠 NLP & LLM Tools
 - **Encoders & NLP Models**: BERT, Sentence Transformers  
 - **Large Language Models**: GPT, LLaMA (`llama-cpp-python`)  
-- **Vector Store**: ChromaDB (used in RAG pipelines)
+- **Vector Store**: ChromaDB
 
 #### 🌐 Web Development
 - **Frontend**: React.js, Next.js, Streamlit, Bootstrap, Tailwind CSS  
