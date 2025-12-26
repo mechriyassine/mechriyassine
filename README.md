@@ -7,8 +7,13 @@
 </p>
 
 <p align="center">
-  <b>🚀 AI Engineer architecting the next generation of intelligent systems.</b><br>
-  Based in Tunisia, I build production-ready Generative AI solutions, specializing in Agentic workflows, GraphRAG, and MLOps pipelines.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEyb2NqM3dxdjNxYTJjYzB5cjVoOGJwYWFneWl1bWcwYnNhbjE2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="220" alt="coding animation" />
+</p>
+<p align="center">
+  <b>Software Engineer based in Tunisia 🇹🇳</b><br>
+  I specialize in Artificial Intelligence from Machine Learning to Generative & Agentic AI.
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=yassinemechri&label=Profile%20views&color=36BCF7&style=flat" alt="yassinemechri" />
 </p>
 
 <p align="center">
@@ -35,45 +40,64 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🧠 Generative AI & RAG</h3>
+      <h3>🧠 GenAI, NLP & RAG</h3>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+      <br>
       <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
       <img src="https://img.shields.io/badge/ChromaDB-CC2929?style=flat&logo=chroma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white" />
     </td>
     <td align="center" width="50%">
-      <h3>⚙️ MLOps & Cloud</h3>
+      <h3>⚙️ MLOps, DevOps & Cloud</h3>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" />
       <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubeflow-005571?style=flat&logo=kubeflow&logoColor=white" />
       <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticsearch&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>👁️ Computer Vision</h3>
+      <h3>👁️ Machine Learning & Vision</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logo=ultralytics&logoColor=black" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
     </td>
     <td align="center" width="50%">
-      <h3>💻 Full Stack Engineering</h3>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <h3>💻 Full Stack & Backend</h3>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
     </td>
   </tr>
 </table>
 
 </div>
-
-<br>
 
 ### 📊 GitHub Analytics
 
@@ -85,15 +109,6 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemechri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
----
-
-### ⚡ Quick Bytes
-
-* 👨‍💻 **Current Role:** AI Engineer & Organizer at **GDG Sousse**.
-* 🌱 **Currently exploring:** Agentic AI Workflows, GraphRAG, and Advanced Vector Search.
-* 🧩 **Philosophy:** I love solving real-world problems using AI and scalable systems.
-* 🤖 **Fun Fact:** I automate things I don’t like doing (one day this will include laundry).
-* 💬 **Ask me about:** Large Language Models, RAG pipelines, or why `FastAPI` is superior.
 
 ---
 
