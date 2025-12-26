@@ -10,7 +10,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFlZGpncHB4am43bjR5OXJja3c5aDlocm9yc2V4bTA3cW5oZ253cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IQCfsZXScpvKhi/giphy.gif" width="400" alt="coding animation" />
 </p>
 <p align="center">
-  <b>Software Engineer based in Tunisia 🇹🇳</b><br>
+  <b>I'm a Software Engineer based in Tunisia 🇹🇳</b><br>
   I specialize in Artificial Intelligence from Machine Learning to Generative & Agentic AI.
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=yassinemechri&label=Profile%20views&color=36BCF7&style=flat" alt="yassinemechri" />
