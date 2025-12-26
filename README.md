@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFlZGpncHB4am43bjR5OXJja3c5aDlocm9yc2V4bTA3cW5oZ253cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IQCfsZXScpvKhi/giphy.gif" width="600" alt="coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFlZGpncHB4am43bjR5OXJja3c5aDlocm9yc2V4bTA3cW5oZ253cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IQCfsZXScpvKhi/giphy.gif" width="500" alt="coding animation" />
 </p>
 <p align="center">
   <b>I'm a Software Engineer based in Tunisia 🇹🇳</b><br>
