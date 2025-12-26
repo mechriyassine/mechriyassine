@@ -40,7 +40,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🧠 GenAI, NLP & RAG</h3>
+      <h3>🧠 GenAI </h3>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white" />
@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/ChromaDB-CC2929?style=flat&logo=chroma&logoColor=white" />
     </td>
     <td align="center" width="50%">
-      <h3>⚙️ MLOps, DevOps & Cloud</h3>
+      <h3>⚙️ MLOps & DevOps</h3>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>👁️ Machine Learning & Vision</h3>
+      <h3>👁️ Machine Learning & Computer Vision</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logo=ultralytics&logoColor=black" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
@@ -79,7 +79,7 @@
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
     </td>
     <td align="center" width="50%">
-      <h3>💻 Full Stack & Backend</h3>
+      <h3>💻 Full Stack </h3>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
       <br>
