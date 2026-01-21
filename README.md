@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <b>I'm a Software Engineer based in Tunisia 🇹🇳</b><br>
-  I specialize in Artificial Intelligence from Machine Learning to Generative & Agentic AI.
+  I specialize in DevOps , MlOps and Artificial Intelligence.
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=yassinemechri&label=Profile%20views&color=36BCF7&style=flat" alt="yassinemechri" />
 </p>
