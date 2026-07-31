@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <b>I'm a Software Engineer based in Tunisia 🇹🇳</b><br>
-  I specialize in DevOps , MlOps and Artificial Intelligence.
+  I specialize in Artificial Intelligence , DevOps & MlOps .
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=yassinemechri&label=Profile%20views&color=36BCF7&style=flat" alt="yassinemechri" />
 </p>
